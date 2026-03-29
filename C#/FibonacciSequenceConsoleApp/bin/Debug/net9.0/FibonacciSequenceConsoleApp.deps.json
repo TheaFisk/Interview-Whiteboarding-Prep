@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FibonacciSequenceConsoleApp/1.0.0": {
+        "runtime": {
+          "FibonacciSequenceConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FibonacciSequenceConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

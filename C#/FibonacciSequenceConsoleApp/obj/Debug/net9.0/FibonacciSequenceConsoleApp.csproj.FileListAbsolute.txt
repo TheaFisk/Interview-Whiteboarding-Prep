@@ -1,0 +1,15 @@
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\bin\Debug\net9.0\FibonacciSequenceConsoleApp.exe
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\bin\Debug\net9.0\FibonacciSequenceConsoleApp.deps.json
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\bin\Debug\net9.0\FibonacciSequenceConsoleApp.runtimeconfig.json
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\bin\Debug\net9.0\FibonacciSequenceConsoleApp.dll
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\bin\Debug\net9.0\FibonacciSequenceConsoleApp.pdb
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\obj\Debug\net9.0\FibonacciSequenceConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\obj\Debug\net9.0\FibonacciSequenceConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\obj\Debug\net9.0\FibonacciSequenceConsoleApp.AssemblyInfo.cs
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\obj\Debug\net9.0\FibonacciSequenceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\obj\Debug\net9.0\FibonacciSequenceConsoleApp.sourcelink.json
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\obj\Debug\net9.0\FibonacciSequenceConsoleApp.dll
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\obj\Debug\net9.0\refint\FibonacciSequenceConsoleApp.dll
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\obj\Debug\net9.0\FibonacciSequenceConsoleApp.pdb
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\obj\Debug\net9.0\FibonacciSequenceConsoleApp.genruntimeconfig.cache
+C:\Users\Thea Fisk\Documents\Thea Things\Interview Whiteboarding Prep\C#\FibonacciSequenceConsoleApp\obj\Debug\net9.0\ref\FibonacciSequenceConsoleApp.dll
