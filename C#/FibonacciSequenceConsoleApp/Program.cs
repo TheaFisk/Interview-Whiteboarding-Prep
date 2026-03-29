@@ -24,9 +24,9 @@ class Program
         //int n = Console.Read(); 
         int n = int.Parse(Console.ReadLine());
         int loop = 0;
-        int prior = 0;
-        int current = 1;
-        int next = 1;
+        double prior = 0;
+        double current = 1;
+        double next = 1;
 
         Console.WriteLine("Sequence");
         Console.WriteLine("- - - - - - - - ");
