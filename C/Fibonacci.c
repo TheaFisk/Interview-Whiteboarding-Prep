@@ -1,20 +1,26 @@
 
+#include <stdio.h>
+
 int main()
 {
     //Fibonacci Sequence in C
 
     int n;
     printf("Nth number");
-    scanf("%d", &n);
-    
-    int loop;
-    double prior;
-    double current;
-    double next;
+    scanf("%d", n);
 
-    while (n > loop)
+    int loop;
+    int prior;
+    int current;
+    int next;
+
+    printf("%d", next);
+    /*
+        while (n > loop)
     {
-        printf(next);
+        printf("%d", next);
     }
+    */
+
     return 0;
 }
