@@ -56,4 +56,6 @@ int main()
 
     printf("Area of the rectangle is: %d", area);
 
+    //Next
+
 }
