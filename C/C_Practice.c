@@ -56,6 +56,10 @@ int main()
 
     printf("Area of the rectangle is: %d", area);
 
+    // Project Ideas: Battleship? Tic Tac Toe? 
+
+    // Focus on base and then efficiency
+
     //Next
 
 }
