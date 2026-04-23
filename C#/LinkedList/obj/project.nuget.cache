@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VOhUHO3Gs7s=",
+  "dgSpecHash": "CWaRI4OIGS4=",
   "success": true,
   "projectFilePath": "C:\\Users\\Thea Fisk\\Documents\\Thea Things\\Interview Whiteboarding Prep\\C#\\LinkedList\\LinkedList.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Thea Fisk\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.15\\microsoft.netcore.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\Thea Fisk\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.15\\microsoft.windowsdesktop.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\Thea Fisk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.15\\microsoft.aspnetcore.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\Thea Fisk\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.15\\microsoft.netcore.app.host.win-x64.9.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
